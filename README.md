@@ -1,6 +1,6 @@
 # Practice Repository
 
-This repository is used for learning many things like :-
+This repository is used for learning many things like :
 
 - Forking
 - Cloning
